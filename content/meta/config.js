@@ -1,23 +1,24 @@
+/* eslint-disable prettier/prettier */
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
+  siteTitle: "E-acezBlog - a Blog for E-acez", // <title>
+  shortSiteTitle: "E-acezBlog", // <title> ending for posts and pages
+  siteDescription: "E-acezBlog is for E-acez company.",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
-  /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  // author
+  authorName: "Lagbalu Joseph",
+  authorTwitterAccount: "lagbaluJ",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "E-acez Blog",
+  headerSubTitle: "Company Blog",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "E-acezBlog - a GatsbyJS starter",
+  manifestShortName: "E-acezBlog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +33,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/jos333y" },
+    { name: "twitter", url: "https://twitter.com/lagbaluJ" },
+    { name: "facebook", url: "http://facebook.com/lagbalu.joseph" }
   ]
 };
