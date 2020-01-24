@@ -1,6 +1,6 @@
 ---
 title: What is E-acez all About?
-category: "welcome"
+category: "introduction"
 cover: what-is.jpg
 author: laughter oginni
 ---
