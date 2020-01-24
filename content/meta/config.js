@@ -17,8 +17,8 @@ module.exports = {
   headerSubTitle: "Company Blog",
 
   /* manifest.json */
-  manifestName: "E-acezBlog - a GatsbyJS starter",
-  manifestShortName: "E-acezBlog", // max 12 characters
+  manifestName: "E-acez_Blog",
+  manifestShortName: "E-acez_Blog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",

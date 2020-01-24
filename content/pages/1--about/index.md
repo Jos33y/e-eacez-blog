@@ -1,10 +1,10 @@
 ---
-title: About US
+title: About Us
 ---
 
 ![About Image](about.jpg)
 
-**E-acez** is a growing e-commerce company that started September 22,2019..
+**E-acez** is a growing e-commerce company that started September 22, 2019.
 
 **E-acez** provides personalized E-commerce stores for sellers with unique and amazing every seller needs to run his/her business coveniently..
 

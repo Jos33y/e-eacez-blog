@@ -9,10 +9,10 @@ menuTitle: Meet d team
 
 **Bio: _C.E.O Eacez and Content Writer_**
 
-* _[Facebook:](www.facebook.com/laughtepraise)_
-* _[Twitter:](www.twitter.com/laftajazz)_
-* _[Instagram:](www.instagram.com/laftajazz)_
-* _[Email:](laughterjass@gmail.com)_
+* _[Facebook](https://www.facebook.com/laughter.praise.3)_
+* _[Twitter](https://www.twitter.com/laftajazz)_
+* _[Instagram](https://www.instagram.com/laftajazz)_
+* _[Email](mailto:laughterjass@gmail.com)_
 
 ![Adeola Adeyemi](ade.jpg).
 
@@ -20,7 +20,7 @@ menuTitle: Meet d team
 
 **Bio: _Media, Content writer and Digital Marketer_**
 
-* _[Facebook:](www.facebook.com/adeydeola)_
-* _[Twitter:](www.twitter.com/deolaadeyemi)_
-* _[Instagram:](www.instagram.com/deoladeyemi)_
-* _[Email:](Adey.deola@gmail.com)_
+* _[Facebook](https://www.facebook.com/adeydeola)_
+* _[Twitter](https://www.twitter.com/deolaadeyemi)_
+* _[Instagram](https://www.instagram.com/deoladeyemi)_
+* _[Email](mailto:Adey.deola@gmail.com)_
