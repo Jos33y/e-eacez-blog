@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 require("dotenv").config();
 const config = require("./content/meta/config");
 const transformer = require("./src/utils/algolia");
@@ -137,6 +138,12 @@ module.exports = {
           }
         ]
       }
+    },
+    {
+      resolve: `gatsby-plugin-suscribers`,
+      options: {
+        id: 'f6c4e6d0-477a-444f-a39e-302ad0f8de91',
+      },
     },
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
